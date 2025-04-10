@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+
 import React from "react";
 import ItemLayout from "./ItemLayout";
 import Link from "next/link";
